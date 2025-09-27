@@ -9,3 +9,6 @@
 - [ ]  Site no ar.
 - [ ]  Vídeo de demonstração.
 
+ideias de cnpj pra gente fazer o site:
+Site de ~farmacia~
+Site de cafeteria
